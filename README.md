@@ -1,4 +1,7 @@
+
 LIVE LINK : https://pratham-rabari.github.io/Salon_Queue_Management_Vibe_Code/#/
+
+VIDEO LINK : https://drive.google.com/file/d/1fzXh6uVyRj0r8XQ4z6KkPe2Tj2aUdP7Z/view?usp=sharing
 
 
 # 💈 Royal Crown Salon — Real-Time Queue Management App
