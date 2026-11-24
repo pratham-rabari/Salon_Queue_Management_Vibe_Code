@@ -1,3 +1,6 @@
+LIVE LINK : https://pratham-rabari.github.io/Salon_Queue_Management_Vibe_Code/#/
+
+
 # 💈 Royal Crown Salon — Real-Time Queue Management App
 
 A client-side, zero-backend, multi-window synchronized queue management web application designed to eliminate weekend salon waiting friction, customer disputes, and chaotic lines. Built with **React 18**, **Vite**, and **Tailwind CSS**.
